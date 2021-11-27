@@ -1,0 +1,30 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 50,
+        "width": 50
+    },
+    "display": "DateForCalendar",
+    "fields": {
+        "AAD": {
+            "caption": "NewDate",
+            "editor": "DynamicValue",
+            "name": "newDate",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "icon": "ion-android-calendar",
+    "states": {
+        "AAE": {
+            "caption": "result",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "is_list": true,
+            "name": "result",
+            "value": "date"
+        }
+    }
+}

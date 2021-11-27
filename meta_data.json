@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "demo_page": "https://bubble.io/page?name=index&id=demodaysforcalendar&test_plugin=1638005371796x733753916990160900_current&tab=tabs-6&subtab=General",
+    "description": "Create your custom calendar with \"Dates Generator for Custom Calendar\", the plugin which generates the list of days appearing in a monthly calendar",
+    "image": "//s3.amazonaws.com/appforest_uf/f1638028424763x692794716689992000/icons8-calendar.svg",
+    "license": "open_source",
+    "link": "https://bubble.io/page?name=index&id=demodaysforcalendar&test_plugin=1638005371796x733753916990160900_current&tab=tabs-6&subtab=General",
+    "name": "Dates Generator for Custom Calendar",
+    "plugin_instructions": "Insert a dynamic or static date in the \"DateForCalendar\" element and the plugin will return the list of days of that month, including some days of the previous month (if the month doesn't start on Sunday) and some days of the following month (if the month doesn't end on Saturday)"
+}
